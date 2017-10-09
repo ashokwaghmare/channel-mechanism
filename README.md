@@ -12,7 +12,7 @@ To run App:
 
 To run test cases:
 
-**./run/activator test**
+**./bin/activator test**
 
 
 
